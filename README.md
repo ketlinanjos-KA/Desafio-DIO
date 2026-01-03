@@ -1,0 +1,4 @@
+I am taking the DIO Excel with AI course, and the first challenge was to build a real estate investment fund (REIT/FII) investment simulator in Excel.
+For this reason, I have attached my file so it can be analyzed.
+
+The second challenge was to create an Excel tool that helps organize and consolidate essential information for income tax declaration.
